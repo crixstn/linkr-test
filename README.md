@@ -32,11 +32,7 @@ Built with Node.js, Express, PostgreSQL, and React.
 
 5. Start the server:
    ```sh
-   node app.js
-   ```
-   or
-   ```sh
-   npx nodemon app.js
+   npm start
    ```
 6. In the frontend, install dependencies:
    ```sh
